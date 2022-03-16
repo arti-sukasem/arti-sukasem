@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arti Sukasem (@arti-sukasem), I am a biomedical engineer. I am currently working at Auckland Bioengineering Institute. 
+- 👋 Hi, I’m Arti Sukasem (@arti-sukasem), I am a biomedical engineer. I am a software developer at Auckland Bioengineering Institute. 
 -  My current Github projects are 3D human models (e.g. lung, brainstem, etc.) for SPARC (https://sparc.science/) and 12Labour (https://www.auckland.ac.nz/en/abi/our-research/research-groups-themes/12-Labours.html)
 
 - 👀 I’m interested in financial investment and software development. 
