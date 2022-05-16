@@ -9,9 +9,9 @@
 - 💞️ I’m looking for a career change into a web development, that I can grow and make a decent work. Please contact me if you are interested in hiring :) 
 
 - 📫 How to reach me: 
-    Email: arti-sukasem@hotmail.com
-    LinkedIn: https://www.linkedin.com/in/arti-sukasem
-    Personal website: https://arti-sukasem.github.io/Personal-website/
+- Email: arti-sukasem@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/arti-sukasem
+- Personal website: https://arti-sukasem.github.io/Personal-website/
     
 <!---
 arti-sukasem/arti-sukasem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
